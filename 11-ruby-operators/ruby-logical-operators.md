@@ -167,6 +167,7 @@
 
 อ้างอิง
 >https://www.techotopia.com/index.php/Understanding_Ruby_Logical_Operators
+>
 >https://www.geeksforgeeks.org/java/java-logical-operators-with-examples/
 >https://www.geeksforgeeks.org/c/logical-operators-in-c/
 >https://www.w3schools.com/python/gloss_python_logical_operators.asp
