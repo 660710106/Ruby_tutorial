@@ -8,7 +8,7 @@
 | `\|\|`     | OR – คืนค่า `true` ถ้าอย่างน้อยหนึ่งเงื่อนไขเป็นจริง | `(5 > 3) \|\| (5 > 10)` → `true` |
 | `!`      | NOT – สลับผลลัพธ์ | `!(5 > 3)` → `false` |
 | `and`    |  AND แบบตัวอักษร (priority ต่ำกว่า `&&`) | `true and false` → `false` |
-| `or`     |  OR แบบตัวอักษร (priority ต่ำกว่า `||`) | `false or true` → `true` |
+| `or`     |  OR แบบตัวอักษร (priority ต่ำกว่า `\|\|`) | `false or true` → `true` |
 | `not`    | NOT แบบตัวอักษร (priority ต่ำกว่า `!`) | `not true` → `false` |
 
 ***Java , C Logical Operators***
