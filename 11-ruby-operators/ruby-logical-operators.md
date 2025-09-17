@@ -45,8 +45,8 @@
 
         boolean result = (var1 < 25) && (var2 > 45);
         System.out.println(result); // true
-    }
-}
+   		 }
+	}
 
 
 ***ภาษา C***
@@ -63,6 +63,7 @@
 
 	    return 0;
 	}
+ 
 ***ภาษา Python***
 
 	var1 = 20
